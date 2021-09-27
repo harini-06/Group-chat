@@ -1,0 +1,5 @@
+applications:
+- name: redis-chat
+  memory: 512M
+  services:
+  - chat-db
